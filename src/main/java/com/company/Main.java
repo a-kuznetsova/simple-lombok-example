@@ -9,5 +9,11 @@ public class Main {
                 .breed("British Shorthair")
                 .build();
         System.out.println(kitty);
+        Cat kitty3 = Cat
+                .builder()
+                .name("Kali")
+                .breed("British Shorthair")
+                .build();
+        System.out.println(kitty3);
     }
 }
