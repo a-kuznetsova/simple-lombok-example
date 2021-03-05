@@ -9,5 +9,6 @@ public class Main {
                 .breed("British Shorthair")
                 .build();
         System.out.println(kitty);
+        System.out.println("Hi");
     }
 }
